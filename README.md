@@ -11,6 +11,12 @@ Una sencilla calculadora de propinas desarrollada en React.js, esta aplicación 
 - Interfaz intuitiva y fácil de usar.
 - Adaptada para dispositivos móviles y escritorio.
 
+## Tenologías usadas
+
+- HTML5
+- TAILWINDCSS
+- REACT.JS
+
 ---
 
 ## Capturas de Pantalla
