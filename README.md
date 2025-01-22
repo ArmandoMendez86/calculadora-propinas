@@ -6,7 +6,7 @@ Una sencilla calculadora de propinas desarrollada en React.js, esta aplicación 
 
 ## Características
 
-- Calcula el monto de la propina en base al porcentaje seleccionado (10%, 15%, 20%).
+- Calcula el monto de la propina en base al porcentaje seleccionado (10%, 20%, 50%).
 - Muestra el total a pagar incluyendo la propina.
 - Interfaz intuitiva y fácil de usar.
 - Adaptada para dispositivos móviles y escritorio.
