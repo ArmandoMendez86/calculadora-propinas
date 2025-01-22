@@ -25,7 +25,8 @@ Una sencilla calculadora de propinas desarrollada en React.js, esta aplicación 
 ### Vista Principal
 ![image](https://github.com/user-attachments/assets/a58f849b-6b2f-4234-9c24-932ad896e7ba)
 
-
+## Demo en Vivo
+➡️ **[Ver Aplicación en Vivo](https://propinas-calc.netlify.app/)**
 ---
 
 ## Instalación
